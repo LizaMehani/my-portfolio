@@ -28,7 +28,7 @@ export default function About() {
               {/* Profile Image Box */}
               <div className="relative z-10 w-64 h-64 md:w-72 md:h-72 rounded-[2rem] overflow-hidden border border-indigo-500/30 bg-slate-900 shadow-xl">
                 <img 
-                  src="/profile picture.png" 
+                  src="/profile pic.jpeg" 
                   alt="Liza Mehani" 
                   className="w-full h-full object-cover hover:scale-105 transition duration-500"
                 />
