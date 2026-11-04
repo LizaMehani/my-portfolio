@@ -81,7 +81,7 @@ export default function About() {
                 onClick={() => { navigate('/projects'); window.scrollTo({ top: 0, left: 0, behavior: 'auto' }); }}
                 className="px-6 py-3.5 bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-xs md:text-sm rounded-xl shadow-lg shadow-indigo-600/30 transition flex items-center gap-2 cursor-pointer"
               >
-                View Skills ➜
+                View Projects ➜
               </button>
 
               <a 
